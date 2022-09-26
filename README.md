@@ -6,7 +6,7 @@ CS Specialist: Entrepreneurship @ UofT
 
 I'm Vikram, a Tech Enthusiast, Full Stack Developer, Entry ML Engineer and the CTO of Cobuild working in Toronto, CA.
 
-I develop innovative solutions to probems to help us live happier, and more productive lives. 
+I develop innovative solutions to probems to help us live happier, and live more productive lives. 
 
 * 🌍  I'm based in Toronto, Ontario
 * 🖥️  See my Portfolio Website at [VikramNarra.me](https://vikramnarra-homepage-m5py-if44v3seh-vikramchandranarra.vercel.app/)
