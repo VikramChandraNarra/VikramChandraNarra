@@ -7,10 +7,11 @@ CS Specialist: Entrepreneurship @ UofT
 As a Digital Aristocrat who has been tinkering with computers since the beginning of my time, I've grown a fond fascination over technology. 
 
 * 🌍  I'm based in Toronto, Ontario
-* 🖥️  See my portfolio at [My LinkedIn Portfolio](http://www.linkedin.com/in/vikram-narra-9515101b7/)
-* ✉️  You can contact me at [vchandra.narra@gmail.com](mailto:vchandra.narra@gmail.com)
+* 🖥️  See my Portfolio Website at [VikramNarra.me](https://vikramnarra-homepage-m5py-if44v3seh-vikramchandranarra.vercel.app/)
+* 💼  See my LinkedIn at [My LinkedIn Portfolio](http://www.linkedin.com/in/vikram-narra-9515101b7/)
+* ✉️   You can contact me at [vchandra.narra@gmail.com](mailto:vchandra.narra@gmail.com)
 * 🚀  I'm currently working on [Morningo](http://morningo.webflow.io/)
-* 🧠  I'm learning Neural Networks, Artificial Intelligence, and Blockchain Technology
+* 🧠  I'm learning Blockchain Security ⛓, NFT Minting 🖼️, Web 3.0 Deployment 👛, Deep Learning 🧠, Image Recognition 🌲, ReactNative 📱
 
 ### Skills
 
