@@ -4,7 +4,9 @@ Hi 👋 My name is Vikram Narra
 CS Specialist: Entrepreneurship @ UofT
 --------------------------------------
 
-As a Digital Aristocrat who has been tinkering with computers since the beginning of my time, I've grown a fond fascination over technology. 
+I'm Vikram, a Tech Enthusiast, Full Stack Developer, Entry ML Engineer and the CTO of Cobuild working in Toronto, CA.
+
+I develop innovative solutions to probems to help us live happier, and more productive lives. 
 
 * 🌍  I'm based in Toronto, Ontario
 * 🖥️  See my Portfolio Website at [VikramNarra.me](https://vikramnarra-homepage-m5py-if44v3seh-vikramchandranarra.vercel.app/)
