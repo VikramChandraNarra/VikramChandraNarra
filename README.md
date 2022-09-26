@@ -4,7 +4,7 @@ Hi 👋 My name is Vikram Narra
 CS Specialist: Entrepreneurship @ UofT
 --------------------------------------
 
-I would describe myself to be a person that is perplexed with the notion of submissive conformity. The human mind is meant for creativity, problem solving, and inventiveness, as well as being an observer, collaborator, and a leader who motivates and inspires people. I aim to utilize technology and computer science to present the power of the human mind.
+As a Digital Aristocrat who has been tinkering with computers since the beginning of my time, I've grown a fond fascination over technology. 
 
 * 🌍  I'm based in Toronto, Ontario
 * 🖥️  See my portfolio at [My LinkedIn Portfolio](http://www.linkedin.com/in/vikram-narra-9515101b7/)
