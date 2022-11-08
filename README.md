@@ -9,7 +9,7 @@ I'm Vikram, a Tech Enthusiast, Full Stack Developer, Entry ML Engineer and the C
 I develop innovative solutions to problems to help us live happier, and live more productive lives. 
 
 * 🌍  I'm based in Toronto, Ontario
-* 🖥️  See my Portfolio Website at [VikramNarra.me](https://vikramnarra-homepage-m5py-if44v3seh-vikramchandranarra.vercel.app/)
+* 🖥️  See my Portfolio Website at [VikramNarra.me](https://vikramnarra.vercel.app/)
 * 💼  See my LinkedIn at [My LinkedIn Portfolio](http://www.linkedin.com/in/vikram-narra-9515101b7/)
 * ✉️   You can contact me at [vchandra.narra@gmail.com](mailto:vchandra.narra@gmail.com)
 * 🚀  I'm currently working on [Morningo](http://morningo.webflow.io/)
